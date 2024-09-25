@@ -1,11 +1,34 @@
-## How to Deploy a Specific Folder Using Git
+Happy Birthday
 
-If you want to deploy a specific folder from this repository to a remote repository, follow the steps below:
+A Happy Birthday animation design in CSS3, HTML5.
 
-### Step-by-Step Guide
+URL: http://ayusharma.github.io/birthday/
 
-1. **Navigate to the Project Directory**
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-   Open your terminal and go to the project's root directory:
-   ```bash
-   cd /path/to/your/project
+# Setup
+
+## If you have python installed:
+```
+cd Birthday
+```
+
+&& 
+
+```
+python -m SimpleHTTPServer --port  8081
+```
+
+visit http://localhost:8081 in your browser.
+
+## If you have nodejs installed
+```
+npm install
+```
+&&
+
+```
+npm run server-node
+```
+visit http://localhost:8081 in your browser.
+
